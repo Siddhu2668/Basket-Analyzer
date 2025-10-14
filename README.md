@@ -59,7 +59,7 @@ It blends **synthetic data generation**, **AI-driven insights**, and **interacti
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/your-username/Basket-Analyzer.git
+   git clone https://github.com/SiddhuKalavalapudi03/Basket-Analyzer.git
    cd Basket-Analyzer
 ````
 
